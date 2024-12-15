@@ -77,12 +77,7 @@ The first fieldset will hold name, email, and password fields. Start by adding f
 <label></label>
 
 15.
-Add the following text to the label elements:
-
-Enter Your First Name:
-Enter Your Last Name:
-Enter Your Email:
-Create a New Password:
+Add the following text to the label elements: Enter Your First Name:, Enter Your Last Name:, Enter Your Email:, Create a New Password:
 <label>Enter Your First Name:</label>
 <label>Enter Your Last Name:</label>
 <label>Enter Your Email:</label>
