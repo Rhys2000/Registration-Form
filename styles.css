@@ -40,3 +40,7 @@ input, textarea, select {
   margin: 10px 0;
   margin-bottom: 0;
 }
+
+.inline {
+  width: unset;
+}
